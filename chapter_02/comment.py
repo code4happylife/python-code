@@ -2,3 +2,6 @@
 print("Hello Python people!")
 # This is still comment.
 print("This is not a comment!")
+
+#print("hello")
+print("hello")
