@@ -3,7 +3,7 @@
 '''
 @author: developer
 @contact:
-@software: onion test
+@software:
 @file: ex2.3.py
 @time: 2020/11/22 10:09 下午
 @desc:
