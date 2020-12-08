@@ -22,6 +22,9 @@ print("Find a bigger table.")
 for friend in friends:
     print("Thanks a lot "+friend.title()+" ! For joining us to enjoy tonight's party.")
 
-
+print(friends)
+del friends[0]
+del friends[1]
+print(friends)
 
 
