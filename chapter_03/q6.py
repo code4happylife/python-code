@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 #@Time  : 2021/1/10 18:52
-#@Author: dongchao
+#@Author:
 #@File  : q6.py
 
 '''
