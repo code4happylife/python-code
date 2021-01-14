@@ -6,7 +6,7 @@
 @software:
 @file: q9.py
 @time: 2021/1/12 8:41 下午
-@desc:
+@desc:solution to q9
 '''
 
 '''

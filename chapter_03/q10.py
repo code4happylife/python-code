@@ -6,7 +6,7 @@
 @software:
 @file: q10.py
 @time: 2021/1/14 4:28 下午
-@desc:
+@desc:solution to q10
 '''
 
 
